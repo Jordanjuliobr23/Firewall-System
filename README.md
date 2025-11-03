@@ -6,7 +6,7 @@ This is a academy project from discipline Open Systems Advanced Administration.
  Network Protocols and Tecnologies: Iptables, NTP, Rsyslog 
          
 # 🛜 Network Settings: 
-    └── 📌 Net Strap: 192.168.56.x
+   └── 📌 Net Strap: 192.168.56.x
     
     └── 🔥Firewall/Network : 
           └── Network Interface 1: 

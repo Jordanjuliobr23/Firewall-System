@@ -1,9 +1,9 @@
 # Firewall-System---Open-Systems-Advanced-Administration 🚫
 
 # 📋 About the project:
-     └── This is a academy project from discipline Open Systems Advanced Administration. 
-     └── The objective of project is buildin a network topology with the Server and Client programs
-     └── Network Protocols and Tecnologies: Iptables, NTP, Rsyslog 
+This is a academy project from discipline Open Systems Advanced Administration. 
+ The objective of project is buildin a network topology with the Server and Client programs
+ Network Protocols and Tecnologies: Iptables, NTP, Rsyslog 
          
 # 🛜 Network Settings: 
     └── 📌 Net Strap: 192.168.56.x

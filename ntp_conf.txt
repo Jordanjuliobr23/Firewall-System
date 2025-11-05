@@ -1,0 +1,3 @@
+server a.st1.ntp.br iburst
+server b.st1.ntp.br iburst  
+server c.st1.ntp.br iburst

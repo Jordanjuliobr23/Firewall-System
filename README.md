@@ -60,7 +60,7 @@ This is a academy project from discipline Open Systems Advanced Administration.
                     └── Receive and guard Gateway LOGs
 
 ## 📹 Operation Firewall:
-    https://youtu.be/12ppHowOSQc
+    (https://youtu.be/12ppHowOSQc)
       
                   
 

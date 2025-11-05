@@ -5,7 +5,7 @@ This is a academy project from discipline Open Systems Advanced Administration.
  The objective of project is buildin a network topology with the Server and Client programs
  Network Protocols and Tecnologies: Iptables, NTP, Rsyslog 
          
-# 🛜 Network Settings: 
+## 🛜 Network Settings: 
    └── 📌 Net Strap: 192.168.56.x
     
     └── 🔥Firewall/Network : 
@@ -27,7 +27,7 @@ This is a academy project from discipline Open Systems Advanced Administration.
 
               
         
-# 🌲Topology:
+## 🌲Topology:
  
     └── 🔥 Firewall/Gateway: 
 
@@ -59,6 +59,8 @@ This is a academy project from discipline Open Systems Advanced Administration.
                     └── Run a Syslog server
                     └── Receive and guard Gateway LOGs
 
+## Operation Firewall:
+    https://youtu.be/12ppHowOSQc
       
                   
 

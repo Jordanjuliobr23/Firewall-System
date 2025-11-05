@@ -1,4 +1,4 @@
-# 🚫 Firewall-System 
+# 🧱 Firewall-System 
 
 # 📋 About the project:
 This is a academy project from discipline Open Systems Advanced Administration. 
@@ -59,8 +59,10 @@ This is a academy project from discipline Open Systems Advanced Administration.
                     └── Run a Syslog server
                     └── Receive and guard Gateway LOGs
 
-## 📹 Operation Firewall:
-    <https://youtu.be/12ppHowOSQc>
+
+## 🧱🔥Video presentation
+[📹 Operation Firewall:](https://youtu.be/12ppHowOSQc)
+
       
                   
 
